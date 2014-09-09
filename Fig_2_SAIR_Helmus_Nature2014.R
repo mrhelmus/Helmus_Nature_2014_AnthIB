@@ -5,10 +5,11 @@
 require(segmented)
 
 #library for loading xlsx files
-library(xlsx) #used only because data from Nature is in xlsx format, could just load data as a flat file (csv)
+#library(xlsx) #use if want to use xlsx from Nature
 
 #Read Data
-dat<-read.xlsx("Helmus_Data_Fig2.xlsx",sheetIndex=1,header=TRUE) #save data as csv and load if problems with xlsx (likely an outdated Java Runtime) 
+#dat<-read.xlsx("Helmus_Data_Fig2.xlsx",sheetIndex=1,header=TRUE) #save data as csv and load if problems with xlsx (likely an outdated Java Runtime) 
+dat<-read.csv("Helmus_Data_Fig2.csv",header=TRUE,as.is=TRUE)
 rownames(dat)<-dat$bank
 insitu<-dat$insitu.pa
 dat$sr.ex<-dat$present.sr-dat$past.native.sr

@@ -1,4 +1,4 @@
-Code for reproducing the analyses in Helmus et al. 2014 Island biogeography of the Anthropocene. Nature. 513:543-546.
+Code to reproduce Helmus et al. 2014 Nature 513:543-546
 =========================================
 
 

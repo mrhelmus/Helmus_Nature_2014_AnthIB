@@ -1,4 +1,4 @@
-# Helmus et al. 2014 Nature Island Biogeography of the Anthropocene
+# Helmus M.R., Mahler D.L. & Losos J.B. (2014). Island biogeography of the Anthropocene. Nature, 513, 543-546.
 # Code to produce Table 1 in the main text: Shifting importance of area and isolation
 
 ########################################################################################

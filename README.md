@@ -7,7 +7,7 @@ Fig_3_Jcurve_Helmus_Nature2014.R
 Table_1_AreaIsoShifted_Helmus_Nature2014.r
 Table_2_EcoIso_Helmus_Nature2014.r
 
-File|Description|Explanation
+File|Description or Variable|Explanation
 -----|-----------|-----------------|------------------------------------------
 Helmus_Data_Fig1.csv|	Figure 1 Data|native and exotic Anolis distributions|
 Helmus_Data_Fig2.csv|Figure 2 Data|
@@ -27,10 +27,10 @@ Helmus_Data_Fig2.csv|Figure 2 Data|
 Helmus_Data_Fig3.csv|	Figure 3 Data
 	|year					|Year exotic establishment was documented
 	|cumulative # of exotics	|Running sum of the total number of exotic anole populations (per bank) in the Caribbean
-Helmus_Data_Table1.csv					Table 1 Data
-	
-Helmus_Data_Table2.csv					Table 2 Data
-anoletree.nex							Nexus phylogeny of Anolis, necessary for Figure 1, Mahler et al. 2010 Evolution 64:2731-2745
+Helmus_Data_Table1.csv|Table 1 Data|Same as Figure 2 Data
+Helmus_Data_Table2.csv|Table 2 Data|Same as Figure 2 Data with economic isolation
+				|economic.isolation| 1-(total ships docking in 2007–2008/max value)
+anoletree.nex|Nexus phylogeny of Anolis|Mahler et al. 2010 Evolution 64:2731-2745
 
 The MIT License (MIT)
 =========================================

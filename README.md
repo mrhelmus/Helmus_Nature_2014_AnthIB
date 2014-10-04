@@ -1,14 +1,14 @@
 Code for reproducing the analyses in Helmus et al. 2014 Island biogeography of the Anthropocene. Nature. 513:543-546.
 =========================================
 
-Fig_1_Distributions_Helmus_Nature2014.R		
-Fig_2_SAIR_Helmus_Nature2014.R
-Fig_3_Jcurve_Helmus_Nature2014.R
-Table_1_AreaIsoShifted_Helmus_Nature2014.r
-Table_2_EcoIso_Helmus_Nature2014.r
 
 File|Description or Variable|Explanation
 -----|-----------|-----------------|------------------------------------------
+Fig_1_Distributions_Helmus_Nature2014.R|R Code to Reproduce Figure 1		
+Fig_2_SAIR_Helmus_Nature2014.R|R Code to Reproduce Figure 2
+Fig_3_Jcurve_Helmus_Nature2014.R|R Code to Reproduce Figure 3
+Table_1_AreaIsoShifted_Helmus_Nature2014.r|R Code to Reproduce Table 1
+Table_2_EcoIso_Helmus_Nature2014.r|R Code to Reproduce Table 2
 Helmus_Data_Fig1.csv|	Figure 1 Data|native and exotic Anolis distributions|
 Helmus_Data_Fig2.csv|Figure 2 Data|
 	|bank					|Bank Name

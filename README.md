@@ -7,8 +7,8 @@ Fig_3_Jcurve_Helmus_Nature2014.R
 Table_1_AreaIsoShifted_Helmus_Nature2014.r
 Table_2_EcoIso_Helmus_Nature2014.r
 
-file|description|
------|-----------|-----------------------------------------------------------
+File|Description|Explanation
+-----|-----------|-----------------|------------------------------------------
 Helmus_Data_Fig1.csv|	Figure 1 Data|native and exotic Anolis distributions|
 Helmus_Data_Fig2.csv|Figure 2 Data|
 	|bank					|Bank Name

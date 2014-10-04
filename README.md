@@ -29,7 +29,7 @@ Helmus_Data_Fig3.csv|	Figure 3 Data
 	|cumulative # of exotics	|Running sum of the total number of exotic anole populations (per bank) in the Caribbean
 Helmus_Data_Table1.csv|Table 1 Data|Same as Figure 2 Data
 Helmus_Data_Table2.csv|Table 2 Data|Same as Figure 2 Data with economic isolation
-				|economic.isolation| 1-(total ships docking in 2007–2008/max value)
+				|economic.isolation| 1-(total ships docking in 2007 and 2008/max value)
 anoletree.nex|Nexus phylogeny of Anolis|Mahler et al. 2010 Evolution 64:2731-2745
 
 The MIT License (MIT)
